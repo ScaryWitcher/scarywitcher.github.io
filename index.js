@@ -30,7 +30,7 @@ squares.forEach(square=>{
 
 function moveSquare(){
     
-    timer = setInterval(randomSquare,500)
+    timer = setInterval(randomSquare,1000)
 }
 moveSquare()
     
